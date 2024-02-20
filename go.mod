@@ -1,4 +1,4 @@
-module code.sajari.com/docconv/v2
+module github.com/LooJee/docconv
 
 go 1.21
 
