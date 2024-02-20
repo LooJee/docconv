@@ -1,4 +1,4 @@
-module github.com/LooJee/docconv
+module github.com/LooJee/docconv/v2
 
 go 1.21
 
